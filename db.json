@@ -1,14 +1,16 @@
 {
-    "items": {
-        "name": "TEST NAME",
-        "address": "TEST ADDRESS",
-        "floorPrice": "TEST FLOOR PRICE",
-        "volume": "TEST VOLUME"
-    },
-    {
-        "name": "TEST NAME2",
-        "address": "TEST ADDRESS2",
-        "floorPrice": "TEST FLOOR PRICE2",
-        "volume": "TEST VOLUME2"
-    }
+    "items": [
+         {
+            "name": "TEST NAME",
+            "address": "TEST ADDRESS",
+            "floorPrice": "TEST FLOOR PRICE",
+            "volume": "TEST VOLUME"
+        },
+        {
+            "name": "TEST NAME2",
+            "address": "TEST ADDRESS2",
+            "floorPrice": "TEST FLOOR PRICE2",
+            "volume": "TEST VOLUME2"
+        }
+    ]
 }
